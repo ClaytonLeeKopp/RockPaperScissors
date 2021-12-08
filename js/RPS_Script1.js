@@ -142,8 +142,3 @@ alert("Final Score:  Player "+playerScore+ ", Computer " +computerScore+ ", Tie 
 // fourth function will be to declare the result of the game as an output string
     // will be a text message "You [win or lose]! [winnerselection] beats [loserselection"
 
-// final function is to do best of 5 game where functions 1-4 are logged for 5 rouhds
-    // create a for loop for 1 to 5
-    // initialize index i, increment by 1 each round
-    // Report round i result each round
-    // after 5 rounds report winner and the score
